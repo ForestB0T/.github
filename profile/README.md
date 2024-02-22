@@ -28,3 +28,7 @@ ForestBot is licensed under the [MIT License](LICENSE). Feel free to use, modify
 For questions, issues, or collaboration, feel free to reach out to us on [Discord](#discord-link).
 
 Happy coding!
+
+
+![forestbot_server](https://github.com/ForestB0T/.github/assets/79516038/31a8b400-2716-42c7-bbdc-4c1fd3bdbd6e)
+
