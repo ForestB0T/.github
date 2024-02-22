@@ -1,3 +1,6 @@
+
+![new_forestbot](https://github.com/ForestB0T/.github/assets/79516038/b9e51011-719d-4772-930c-5bdfb0ffdb29)
+
 # ForestBot GitHub Group
 
 ForestBot is an open-source project that originated as a Minecraft bot built with Mineflayer. Over time, it evolved into a comprehensive system with a production-level API, wrapper, and WebSocket integration.
